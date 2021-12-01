@@ -1,2 +1,2 @@
 # L-mite-de-velocidad
-Programa para determinar el límite de velocidad de los vehículos: Si se realiza un viaje desde Bogotá  a Cajicá y nuestra velocidad media es de 120 Km/h, necesariamente  en algún punto del trayecto nuestra velocidad habrá sido de  120 Km/h. Esto quiere decir que si la velocidad media supera  la velocidad máxima permitida,  sabremos que en algún punto del trayecto se superó la velocidad  máxima permitida. 
+Programa para determinar el límite de velocidad de los vehículos
